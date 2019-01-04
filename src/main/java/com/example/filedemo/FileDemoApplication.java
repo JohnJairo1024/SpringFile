@@ -1,6 +1,6 @@
 package com.example.filedemo;
 
-import com.example.filedemo.property.FileStorageProperties;
+import com.example.filedemo.config.FileStorageProperties;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

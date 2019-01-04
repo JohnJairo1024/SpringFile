@@ -2,8 +2,7 @@ package com.example.filedemo.service;
 
 import com.example.filedemo.exception.FileStorageException;
 import com.example.filedemo.exception.MyFileNotFoundException;
-import com.example.filedemo.property.FileStorageProperties;
-import org.springframework.beans.factory.annotation.Autowired;
+import com.example.filedemo.config.FileStorageProperties;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.UrlResource;
 import org.springframework.stereotype.Service;

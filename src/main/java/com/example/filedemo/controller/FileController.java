@@ -1,6 +1,6 @@
 package com.example.filedemo.controller;
 
-import com.example.filedemo.payload.UploadFileResponse;
+import com.example.filedemo.dto.UploadFileResponse;
 import com.example.filedemo.service.FileStorageService;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
