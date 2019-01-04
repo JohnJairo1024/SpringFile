@@ -7,7 +7,7 @@
 **1. Clone the repository** 
 
 ```bash
-git clone https://github.com/callicoder/spring-boot-file-upload-download-rest-api-example.git
+git clone https://github.com/JohnJairo1024/SpringFile.git
 ```
 
 **2. Run the app using maven**
@@ -25,3 +25,8 @@ You may also package the application in the form of a jar and then run the jar f
 mvn clean package
 java -jar target/file-demo-0.0.1-SNAPSHOT.jar
 ```
+
+![Screenshot](Postman1.png)
+
+<img src="/img/Postman1.png" alt="My cool logo"/>
+# My cool project and above is the logo of it
