@@ -26,7 +26,9 @@ mvn clean package
 java -jar target/file-demo-0.0.1-SNAPSHOT.jar
 ```
 
+```carga imagenes desde la raiz del proyecto
 ![Screenshot](Postman1.png)
+```
 
-<img src="/img/Postman1.png" alt="My cool logo"/>
-# My cool project and above is the logo of it
+<img src="/img/Postman1.png"/>
+# Postman
